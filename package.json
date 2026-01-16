@@ -30,7 +30,7 @@
     "@sveltejs/vite-plugin-svelte": "^4.0.0",
     "@swup/astro": "^1.4.1",
     "@tailwindcss/typography": "^0.5.15",
-    "astro": "^5.16.6",
+    "astro": "^5.16.7",
     "astro-compress": "^2.3.5",
     "astro-google-analytics": "^1.0.3",
     "astro-icon": "^1.1.1",
